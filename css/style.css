@@ -28,7 +28,7 @@ body {
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -36,7 +36,7 @@ nav {
 }
 
 section {
-  margin: 0; auto;
+  margin: 0 auto;
   width: 60%;
 }
 
@@ -61,6 +61,6 @@ div {
   width: 100%;
 }
 
-div, .element {
+.element {
   background-color: pink;
 }
